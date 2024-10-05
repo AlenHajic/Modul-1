@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="minuterTillSek.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kilometerToMiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="multi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="division.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="divideSeven.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blankSpace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="1-1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="1-2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="1-3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="1-5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="1-6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="diceHistogram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2-2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2-3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2-4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2-5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3-1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3-2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3-3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NameLetterCounter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F-1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F-2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F-3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F-4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AU.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="minuterTillSek.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kilometerToMiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="multi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="division.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="divideSeven.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="nameProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="blankSpace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="diceHistogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NameLetterCounter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5-re.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AP-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AP-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AP-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AP-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AP-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AP-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bland-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bland-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bland-14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text.txt" />
+    <Text Include="ShortWords.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
